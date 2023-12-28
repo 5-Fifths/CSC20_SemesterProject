@@ -1,0 +1,63 @@
+Megamind | Tom McGrath | Will Ferrell, Jonah Hill | 2010 | 96
+Kung Fu Panda | Mark Osborne | Jack Black, Jackie Chan | 2008 | 91
+Kung Fu Panda 2 | Jennifer Yuh Nelson | Jack Black, Jackie Chan | 2011 | 92
+Kung Fu Panda 3 | Jennifer Yuh Nelson | Jack Black, Jackie Chan | 2016 | 95
+Puss in Boots: The Last Wish | Joel Crawford | Antonio Banderas, Salma Hayek | 2022 | 100
+Space Sweepers | Jo Sung-hee | Song Joong-ki, Kim Tae-ri | 2021 | 136
+Train to Busan | Yeon Sang-ho | Gong Yoo, Ma Dong-seok | 2016 | 118
+The Gangster, the Cop, the Devil | Won-Tae Lee | Ma Dong-seok, Kang Kyung-ho | 2019 | 110
+Shrek | Vicky Jenson | Mike Myers, Eddie Murphy | 2001 | 90
+Shrek 2 | Andrew Adamson | Mike Myers, Eddie Murphy | 2004 | 105
+Shrek the Third | Chris Miller | Mike Myers, Eddie Murphy | 2007 | 93
+Shrek Forever After | Mike Mitchell | Mike Myers, Eddie Murphy | 2010 | 93
+The Bad Guys | Pierre Perifel | Sam Rockwell, Awkwafina | 2022 | 96
+Hacksaw Ridge | Mel Gibson | Andrew Garfield, Vince Vaughn | 2016 | 139
+The Admiral: Roaring Currents | Kim Han-min | Choi Min-sik, Ryu Seong-ryong | 2014 | 126
+Hansan: Rising Dragon | Kim Han-min | Hae il Park, Byun Yo-han | 2022 | 129
+IP Man | Wilson Yip | Donnie Yen, Louis Fan | 2008 | 106
+IP Man 2 | Wilson Yip | Donnie Yen, Sammo Hung | 2010 | 108
+IP Man 3 | Wilson Yip | Donnie Yen, Mike Tyson | 2015 | 105
+IP Man 4 | Wilson Yip | Donnie Yen, Scott Adkins | 2019 | 105
+Kung Fu Hustle | Stephen Chow | Stephen Chow, Siu-lung Leung | 2004 | 99
+Shaolin Soccer | Stephen Chow | Stephen Chow, Ng-man Tat | 2001 | 85
+God of Cookery | Stephen Chow | Stephen Chow, Ng-man Tat | 1996 | 95
+Rush Hour | Brett Ratner | Jackie Chan, Chris Tucker | 1998 | 96
+Rush Hour 2 | Brett Ratner | Jackie Chan, Chris Tucker | 2001 | 94
+Rush Hour 3 | Brett Ratner | Jackie Chan, Chris Tucker | 2007 | 91
+Shanghai Noon | Tom Dey | Jackie Chan, Owen Wilson | 2000 | 110
+Shanghai Knights | David Dobkin | Jackie Chan, Owen Wilson | 2003 | 114
+Cook Up A Storm | Raymond Yip | Nicholas Tse, Jung Yong-hwa | 2017 | 97
+Iron Man | Jon Favreau | Robert Downey Jr., Gwyneth Paltrow | 2006 | 126
+Iron Man 2 | Jon Favreau | Robert Downey Jr., Gwyneth Paltrow | 2010 | 125
+Iron Man 3 | Jon Favreau | Robert Downey Jr., Gwyneth Paltrow | 2013 | 130
+71: Into the Fire | John H. Lee | Kwon Sang-woo, Cha Seung-won | 2010 | 120
+Ong Bak: Muay Thai Warrior | Prachya Pinkaew | Tony Jaa, Mum Jokmok | 2003 | 105
+Ong Bak 2: The Beginning | Tony Jaa | Tony Jaa, Sorapong Chatree | 2008 | 98
+Ong Bak 3 | Tony Jaa | Tony Jaa, Mum Jokmok | 2010 | 99
+The Raid | Gareth Evans | Iko Uwais, Joe Taslim | 2011 | 101
+The Raid: Redemption | Gareth Evans | Iko Uwais, Yayan Ruhian | 2014 | 150
+The Night Comes for Us | Timo Tjahjanto | Iko Uwais, Joe Taslim | 2018 | 121
+Pirates of the Caribbean: The Curse of the Black Pearl | Gore Verbinski | Johnny Depp, Orlando Bloom | 2003 | 143
+Pirates of the Caribbean: Dead Man's Chest | Gore Verbinski | Johnny Depp, Orlando Bloom | 2006 | 151
+Pirates of the Caribbean: At World's End | Gore Verbinski | Johnny Depp, Orlando Bloom | 2007 | 168
+Pirates of the Caribbean: On Stranger Tides | Rob Marshall | Johnny Depp, Ian McShane | 2011 | 141
+Top Gun: Maverick | Joseph Krasinski | Tom Cruise, Miles Teller | 2022 | 131
+The Maze Runner | Wes Ball | Dylan O'Brien, Thomas Brodie-Sangster | 2014 | 113
+Maze Runner: Scorch Trials | Wes Bal | Dylan O'Brien, Thomas Brodie-Sangster | 2015 | 133
+Maze Runner: The Death Cure | Wes Bal | Dylan O'Brien, Thomas Brodie-Sangster | 2018 | 142
+How to Train Your Dragon | Dean DeBlois | Jay Baruchel, Gerard Butler | 2010 | 98
+Everything Everywhere All At Once | Daniel Kwan | Michelle Yeoh, Ke Huy Quan | 2022 | 139
+Bee Movie | Simon J. Smith | Jerry Seinfield, Patrick Warburton | 2007 | 90
+test | director | lead1, lead2 | -1 | -1
+test2 | director | lead1, lead2 | -1 | -1
+teeeeeeeeeeeeeee | sldjf | -1, -1 | -1 | -1
+why runtime no work | -1 | -1, -1 | -1 | -1
+asdfljsaldkfjlajfkafjslkfdjlakjflkjalfjlaj | -1 | -1, -1 | -1 | -1
+why no work  | -1 | -1, -1 | -1 | -1
+i hate whoever made this. who put that idiot in charge | director | lead1, lead2 | -1 | -1
+work please | d1 | a1, a2 | -1 | -1
+work???????? | d1 | a1, a2 | -1 | -1
+this time for sure | d1 | a1, a2 | -1 | -1
+i'm begging at this point | -2 | -2, -2 | -1 | -1
+hey guess who's an idiot. spoiler alert it's me i'm the idiot | d1 | a1, a2 | 2004 | 123
+retesting this again | d1 | a1, a2 | 2003 | 123
